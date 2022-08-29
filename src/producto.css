@@ -1,0 +1,41 @@
+.table-style{
+    margin-top: 40px;
+   display: block;
+    font-size: 1.2em;
+border-collapse: collapse;
+ 
+}
+
+tr{
+    border: 1px solid red;
+  
+   
+}
+td, th{
+    border: 1px solid red;
+    padding: 15px;
+   
+}
+th{
+    font-weight: bold;
+
+}
+
+.main-title{
+    text-align: center;
+    display: block;
+}
+.content-style{
+   display: flex;
+   justify-content: center;
+   align-items: center;
+}
+button{
+    cursor: pointer;
+    background-color: red;
+    color: aliceblue;
+}
+input{
+    margin-left: 500px;
+    border-radius: 15px;
+}
